@@ -6,6 +6,6 @@ package com.example.demo.samsle;
  */
 public class HelloWorld2 {
     public static void main(String[] args) {
-        System.out.println("Hello world 2, modified");
+        System.out.println("Hello world 2, modified, M2");
     }
 }
